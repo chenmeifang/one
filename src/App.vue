@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <p>本地仓库one</p>
     <router-view/>
   </div>
 </template>
